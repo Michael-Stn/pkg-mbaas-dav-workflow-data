@@ -1,6 +1,6 @@
 {
   "name": "@mbaas-dav-test/workflow-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package of test",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
