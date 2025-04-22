@@ -1,0 +1,26 @@
+# Ignore development files
+.git/
+.gitignore
+.npmrc
+.npmignore
+
+# Ignore TypeScript source files (only publish compiled output)
+src/
+tsconfig.json
+tsup.config.js
+
+# Ignore testing files
+tests/
+coverage/
+jest.config.js
+
+# Ignore environment and config files
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Ignore miscellaneous files
+README.md
+LICENSE

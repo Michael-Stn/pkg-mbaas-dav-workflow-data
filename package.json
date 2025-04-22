@@ -1,0 +1,30 @@
+{
+  "name": "pkg-mbaas-dav-workflow-data",
+  "version": "1.0.0",
+  "description": "Package of test",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Michael-Stn/pkg-mbaas-dav-workflow-data"
+  },
+  "keywords": [
+    "package",
+    "mbaas",
+    "dav"
+  ],
+  "author": "Michael Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-Stn/pkg-mbaas-dav-workflow-data/issues"
+  },
+  "homepage": "https://github.com/Michael-Stn/pkg-mbaas-dav-workflow-data#readme",
+  "dependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  }
+}
