@@ -7,7 +7,7 @@
 # Ignore TypeScript source files (only publish compiled output)
 src/
 tsconfig.json
-tsup.config.js
+tsup.config.ts
 
 # Ignore testing files
 tests/

@@ -1,5 +1,5 @@
 {
-  "name": "@mbaas-dav/workflow-data",
+  "name": "@mbaas-dav-test/workflow-data",
   "version": "1.0.0",
   "description": "Package of test",
   "main": "dist/index.js",
